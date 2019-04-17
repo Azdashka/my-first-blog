@@ -25,7 +25,7 @@ SECRET_KEY = 'g^&=7grctz827_geqwz(+yf6gf=*#3ft1bc8*uk3vo8p$jgtd_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'http://azdarya.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'http://az.pythonanywhere.com']
 
 
 # Application definition
